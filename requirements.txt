@@ -1,0 +1,14 @@
+Libraries:
+	speech_recognition
+	natsort
+	pydub
+	tkinter
+	gtts
+
+built-in libraries:
+	os
+	shutil
+
+3rd-Party installation
+	ffmpeg
+	
